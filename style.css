@@ -36,6 +36,9 @@ body {
     position: relative;
     padding: 0 1rem;
     font-size: 1.2rem;
+    color: black;
+    font-weight: bold;
+    background-color: rgb(182, 191, 201);
 }
 
 /* BUTTON */
@@ -50,6 +53,9 @@ body {
     right: -20px;
     border: 2px solid #14213d;
     background-color: #b5c9c4;
+    background-color: #032e5f;
+    color: white;
+    font-weight: bold;
 }
 
 .button:active {
